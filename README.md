@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I named myself "or-anger" because I love eating oranges. When I was choosing a name here, "oranger" came to mind, but it was already taken. So, I broke it down into "or" and "anger."
+
+Despite "anger" being part of it, I'm not an angry person. I just like oranges.
+
 <!--
 **or-anger/or-anger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...    
 -->
